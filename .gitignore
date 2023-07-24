@@ -1,4 +1,5 @@
-.DS_Store
+*.DS_Store
 __pycache__/*
 demo_mps.py
 PDF/*
+Tensorrt/*
