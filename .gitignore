@@ -3,3 +3,4 @@ __pycache__/*
 demo_mps.py
 PDF/*
 Tensorrt/*
+Mobilenet/*
